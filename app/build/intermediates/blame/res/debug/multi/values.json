@@ -1,0 +1,494 @@
+[
+    {
+        "outputFile": "/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 48,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 61,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 61,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 65,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 65,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 70,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 70,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 303,
+                    "endColumn": 65,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 65,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 46,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 46,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 51,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 51,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 52,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 52,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 51,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 51,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 48,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 48,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 47,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 47,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 52,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 52,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 53,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 921,
+                        "endColumn": 53,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 50,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 50,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 48,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 48,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 37,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 37,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 41,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 41,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 41,
+                    "endOffset": 1108
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 41,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1113,
+                    "endColumn": 61,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 61,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endLine": 23,
+                    "endColumn": 30,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endLine": 30,
+                        "endColumn": 30,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2202
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1830,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2207,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2436
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2441,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3114
+                },
+                "from": {
+                    "file": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1151,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1824
+                    }
+                }
+            }
+        ]
+    }
+]

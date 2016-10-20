@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/merged/debug/drawable/finish_background.xml",
+        "source": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/drawable/finish_background.xml"
+    },
+    {
+        "merged": "/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/merged/debug/drawable/selectable_item_background.xml",
+        "source": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/drawable/selectable_item_background.xml"
+    }
+]

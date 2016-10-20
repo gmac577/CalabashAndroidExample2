@@ -2,11 +2,130 @@
 <items version="2" >
 
     <item
-        jar="/Users/gmccowey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        is-multidex="false"
+        jar="/Users/gmccowey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="21.1.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/gmccowey/Development/CalabashExampleAndroidWizardPage/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-0a4ddd57fecccddc6a38f5de88bfee30f0c73d41.jar" />
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/debug/support-v4-19.0.0_758ee1fff55b39fc4318b91212613433b7aa8cc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_834b498d6bd8a51a636c7ccf725619560e6525ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_58239a085c0fcf2065eeecdfd5e813789a907554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_af71f7be57828829fe4741efc447158ee82e0aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_5897e3ae080f552d297ee1752b5019d1b684f604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_1831f94e8ad4e85526b4798bc49e245dd8251cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_ebc869bb025dbe1771acae22c94ab635f1288b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_ee1b1e01a9a32bdd7b265dc33886d61b4c11dacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_be13961b00e91b5e51f42b7a16b4c478b2c605ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_bf5657f8c84e04b65ecce734afaf819392631771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_10ecfcfbe36404c5ac23774f3d53863ca0781397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_533cb6aa469cd23c652712bcdd95f2a76e6e355d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_c77be67930c0138d30ea23be3ccfbf163bb5e99a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gmccowey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_3d019707e90a95fb2fdc239c2a76524a89956bce.jar" />
     </item>
 
 </items>

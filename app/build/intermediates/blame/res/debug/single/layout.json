@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/merged/debug/layout/list_item_review.xml",
+        "source": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/layout/list_item_review.xml"
+    },
+    {
+        "merged": "/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/merged/debug/layout/fragment_page.xml",
+        "source": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/layout/fragment_page.xml"
+    },
+    {
+        "merged": "/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/merged/debug/layout/fragment_page_customer_info.xml",
+        "source": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/layout/fragment_page_customer_info.xml"
+    },
+    {
+        "merged": "/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/gmccowey/Development/CalabashAndroidExample2/app/src/main/res/layout/activity_main.xml"
+    }
+]
