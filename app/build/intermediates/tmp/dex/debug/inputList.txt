@@ -1,0 +1,2 @@
+/Users/gmccowey/Development/CalabashExampleAndroidWizardPage/app/build/intermediates/classes/debug
+/Users/gmccowey/Development/CalabashExampleAndroidWizardPage/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-0a4ddd57fecccddc6a38f5de88bfee30f0c73d41.jar
