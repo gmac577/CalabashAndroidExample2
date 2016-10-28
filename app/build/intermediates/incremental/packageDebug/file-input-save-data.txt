@@ -1,9 +1,9 @@
 #Internal package file, do not edit.
-#Thu Oct 20 15:28:59 EDT 2016
+#Thu Oct 27 11:30:00 EDT 2016
 8.set=ANDROID_RESOURCE
 1.base=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_
-1.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_page.xml
-3.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/drawable/finish_background.xml
+1.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/item_focused.9.png
+3.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/item_pressed.9.png
 3.base=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_
 4.set=ANDROID_RESOURCE
 5.base=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_
@@ -20,11 +20,11 @@
 3.set=ANDROID_RESOURCE
 10.set=ANDROID_RESOURCE
 0.base=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_
-0.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/item_focused.9.png
+0.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_page.xml
 6.set=ANDROID_RESOURCE
 2.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
 2.base=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-4.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/item_pressed.9.png
+4.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/drawable/finish_background.xml
 4.base=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_
 6.base=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_
 6.file=/Users/gmccowey/Development/CalabashAndroidExample2/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_page_customer_info.xml
